@@ -5,7 +5,10 @@ body{
     overflow: hidden;
 }
 
-#myCanvas {
-    background: lightgrey;
-    
+#carCanvas {
+    background: lightgray;
+}
+
+#networkCanvas {
+    background: black;
 }
